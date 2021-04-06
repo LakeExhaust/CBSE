@@ -1,0 +1,12 @@
+platform=1617708677000
+cluster.asteroidsnetbeansmodules=1617708677000
+cluster.nbruntimeexample12=1617708677000
+cluster.bin=1617708677000
+cluster.platform=1617708677000
+cluster.etc=1617708677000
+user=1617708677000
+crc=7
+locale=da_DK
+branding=nbruntimeexample12
+java.version=1.8.0_191
+java.vm.version=25.191-b12
