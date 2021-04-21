@@ -3,8 +3,8 @@ OpenIDE-Module-Localizing-Bundle: dk/sdu/cbse/nbruntimeexample12/brand
  ing/Bundle.properties
 AutoUpdate-Essential-Module: true
 OpenIDE-Module-Specification-Version: 1.0
-OpenIDE-Module-Implementation-Version: 1.0-20210329
-OpenIDE-Module-Build-Version: 202103292313
+OpenIDE-Module-Implementation-Version: 1.0-20210421
+OpenIDE-Module-Build-Version: 202104211615
 OpenIDE-Module: dk.sdu.cbse.NBRuntimeExample12.branding
 OpenIDE-Module-Public-Packages: -
 OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1

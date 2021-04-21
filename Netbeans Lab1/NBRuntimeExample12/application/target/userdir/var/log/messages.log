@@ -1,11 +1,11 @@
 -------------------------------------------------------------------------------
->Log Session: Tuesday, April 6, 2021 1:31:21 PM CEST
+>Log Session: Wednesday, April 21, 2021 at 6:16:11 PM Central European Summer Time
 >System Info: 
   Product Version         = NBRuntimeExample12 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54
   Operating System        = Mac OS X version 10.15.4 running on x86_64
-  Java; VM; Vendor        = 1.8.0_191; Java HotSpot(TM) 64-Bit Server VM 25.191-b12; Oracle Corporation
-  Runtime                 = Java(TM) SE Runtime Environment 1.8.0_191-b12
-  Java Home               = /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre
+  Java; VM; Vendor        = 14.0.2; OpenJDK 64-Bit Server VM 14.0.2+12-46; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 14.0.2+12-46
+  Java Home               = /Users/lake/Library/Java/JavaVirtualMachines/openjdk-14.0.2/Contents/Home
   System Locale; Encoding = da_DK (nbruntimeexample12); UTF-8
   Home Directory          = /Users/lake
   Current Directory       = /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application
@@ -17,8 +17,8 @@
                             /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform
                             /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/etc
                             /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform
-  Boot & Ext. Classpath   = /Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/classes:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/System/Library/Java/Extensions/MRJToolkit.jar
-  Application Classpath   = /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/boot.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-modules.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util-lookup.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util-ui.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/dt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/lib/tools.jar
+  Boot & Ext. Classpath   = 
+  Application Classpath   = /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/boot.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-modules.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util-lookup.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util-ui.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/lib/org-openide-util.jar
   Startup Classpath       = /Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/core/org-netbeans-libs-asm.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/core/asm-all-5.0.1.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/core/org-openide-filesystems.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/core/core.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/platform/core/core-base.jar:/Users/lake/Documents/GitHub/CBSE/Netbeans Lab1/NBRuntimeExample12/application/target/nbruntimeexample12/nbruntimeexample12/core/locale/core_nbruntimeexample12.jar
 -------------------------------------------------------------------------------
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
@@ -32,11 +32,11 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.bootstrap/1 [2.84 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.startup/1 [1.68.0.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.api.annotations.common/1 [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
-	dk.sdu.mmmi.cbse.Common [1.0 1.0-20210329 202103291303]
-	dk.sdu.mmmi.cbse.Player [1.0 1.0-20210402 202104021651]
-	dk.sdu.mmmi.cbse.CommonEnemy [1.0 1.0-20210329 202103291303]
-	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20210329 202103291655]
-	dk.sdu.mmmi.cbse.Core [1.0 1.0-20210329 202103291303]
-	dk.sdu.mmmi.cbse.CommonAsteroids [1.0 1.0-20210329 202103291303]
-	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20210329 202103291303]
-	dk.sdu.cbse.NBRuntimeExample12.branding [1.0 1.0-20210402 202104021650]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.CommonEnemy [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.CommonAsteroids [1.0 1.0-20210421 202104211615]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20210421 202104211615]
+	dk.sdu.cbse.NBRuntimeExample12.branding [1.0 1.0-20210421 202104211615]
