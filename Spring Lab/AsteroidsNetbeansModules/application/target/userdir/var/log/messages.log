@@ -1,0 +1,50 @@
+-------------------------------------------------------------------------------
+>Log Session: Friday, April 30, 2021 at 10:15:49 AM Central European Summer Time
+>System Info: 
+  Product Version         = Apache NetBeans Platform Dev (Build 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54)
+  Operating System        = Mac OS X version 10.15.4 running on x86_64
+  Java; VM; Vendor        = 14.0.2; OpenJDK 64-Bit Server VM 14.0.2+12-46; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 14.0.2+12-46
+  Java Home               = /Users/lake/Library/Java/JavaVirtualMachines/openjdk-14.0.2/Contents/Home
+  System Locale; Encoding = da_DK (asteroidsnetbeansmodules); UTF-8
+  Home Directory          = /Users/lake
+  Current Directory       = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application
+  User Directory          = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/userdir
+  Cache Directory         = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/userdir/var/cache
+  Installation            = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules
+                            /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin
+                            /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+                            /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc
+                            /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+  Boot & Ext. Classpath   = 
+  Application Classpath   = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/boot.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-modules.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-lookup.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-ui.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util.jar
+  Startup Classpath       = /Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-netbeans-libs-asm.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/asm-all-5.0.1.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core.jar:/Users/lake/Documents/GitHub/CBSE/Spring Lab/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core-base.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.util [9.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.util.ui [9.14 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.modules [7.54 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.openide.filesystems [9.16 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.asm [5.9 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.bootstrap/1 [2.84 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.startup.base [1.68.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.startup/1 [1.68.0.1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.libs.osgi [1.28 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.core.netigso [1.37 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.modules.netbinox [1.47 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.netbeans.api.annotations.common/1 [1.33 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.CommonBullet [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.CommonEnemy [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.CommonAsteroids [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Collision [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Bullet [1.0 1.0-20210430 202104300803]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20210430 202104300803]
+INFO [org.springframework.context.support.ClassPathXmlApplicationContext]: Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@1278cca1: startup date [Fri Apr 30 10:15:53 CEST 2021]; root of context hierarchy
+INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]: Loading XML bean definitions from class path resource [Beans.xml]
+INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]: Loading XML bean definitions from class path resource [Player.xml]
+INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]: Loading XML bean definitions from class path resource [Enemy.xml]
